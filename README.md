@@ -1,6 +1,6 @@
 # verkefni4gso
 
-1) A) POST, Býr til nýtt resource
+1) A) POST, Býr til nýtt resource <br>
   B) GET, Sækir resource
   C) PUT, Upfærir resource sem er nú þegar til
   D) DELETE, Eyðir resource
