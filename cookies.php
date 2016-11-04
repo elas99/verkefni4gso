@@ -60,3 +60,4 @@ if(isset($_GET['cookie'])){
         ?>
     </div>
 </div>
+<a href="index.php">Til baka á aðalsíðuna</a>
